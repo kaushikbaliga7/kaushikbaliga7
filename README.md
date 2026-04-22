@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💼 Backend Developer with hands-on experience in real-world applications :contentReference[oaicite:0]{index=0}  
+- 💼 Backend Developer with hands-on experience in real-world applications
 - 🔐 Working on API security, encryption, and banking systems  
 - ⚙️ Strong focus on clean architecture and efficient backend design  
 - 🌱 Continuously learning and improving problem-solving skills  
