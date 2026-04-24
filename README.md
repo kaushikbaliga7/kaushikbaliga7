@@ -1,53 +1,77 @@
-# 👋 Hi, I'm Kaushik S Baliga  
+<h1 align="center">Hello 👋, I'm Kaushik S Baliga</h1>
+<h3 align="center">A passionate Java & Spring Boot Developer from Karnataka, India 🇮🇳</h3>
 
-💻 Backend Developer | Java | Spring Boot  
-🚀 Passionate about building scalable systems and secure APIs  
+<p align="center">
+  • <a href="mailto:kaushikbaliga@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/kaushik-s-baliga/">LinkedIn</a> 
+</p>
 
----
-
-## 🧑‍💻 About Me
-- 💼 Backend Developer with hands-on experience in real-world applications
-- 🔐 Working on API security, encryption, and banking systems  
-- ⚙️ Strong focus on clean architecture and efficient backend design  
-- 🌱 Continuously learning and improving problem-solving skills  
-
----
-
-## ⚙️ Tech Stack
-- 💻 Languages: Java, SQL  
-- 🔧 Backend: Spring Boot, REST APIs  
-- 🗄️ Database: MySQL, Oracle  
-- 🛠️ Tools: Git, Postman, Spring Tool Suite (STS)  
-- 🔐 Concepts: API Security, Encryption/Decryption, Validation  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4483BE&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Secure+Banking+APIs;REST+APIs+%7C+FRM+Integration+%7C+Security;Always+Learning+New+Technologies!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Projects
+### 🧠 About Me
 
-### 🔹 Banking API Integration
-- Developed and integrated FRM modules for secure banking transactions  
-- Implemented validation services and request handling  
-- Worked on encryption and decryption mechanisms  
-
-### 🔹 Backend Service Development
-- Built REST APIs using Spring Boot  
-- Designed service-layer logic and database interactions  
-- Focused on modular and maintainable code  
+🎓 Computer Science Graduate<br>
+💻 Skilled in **Java, Spring Boot, SQL (MySQL, Oracle)**<br>
+🚀 Passionate about **building secure backend systems & APIs**<br>
+🔐 Working on **API Security, Encryption & Banking Systems (FRM)**<br>
+📍 Based in **Karnataka, India**<br>
 
 ---
 
-## 📈 GitHub Stats
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikbaliga7&show_icons=true&theme=radical)
+### 💼 Experience
+
+**Backend Developer Intern — Lcode Technologies** *(2026)*  
+- Worked on **Fraud Risk Management (FRM) integration** for banking systems  
+- Implemented real-time fraud validation (**ALLOW / REVIEW / BLOCK**)  
+- Developed secure backend APIs with encryption & validation logic  
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/kaushik-s-baliga/  
-- 💻 GitHub: https://github.com/kaushikbaliga7  
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy debugging complex issues more than writing code 😄  
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kaushikbaliga7&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
+
+<div align="center">
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=kaushikbaliga7&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushik-s-baliga/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kaushikbaliga7">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+</p>
