@@ -19,7 +19,7 @@
 ⚙️ Strong in **REST API development, validation, and backend workflows**  
 🔐 Worked on **Fraud Risk Management (FRM) integrations** for banking systems  
 🚀 Focused on building **scalable, efficient, and reliable backend services**  
-📍 Karnataka, India  
+📍 Mangalore, Karnataka, India  
 
 ---
 
