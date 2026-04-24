@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java & Spring Boot Developer from Karnataka, India 🇮🇳</h3>
 
 <p align="center">
-  • <a href="mailto:your-email@example.com">Email</a> •
+  • <a href="mailto:kaushikbaliga7@example.com">Email</a> •
   <a href="https://www.linkedin.com/in/kaushik-s-baliga/">LinkedIn</a> 
 </p>
 
