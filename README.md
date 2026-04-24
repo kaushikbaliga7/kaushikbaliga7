@@ -52,10 +52,12 @@
 </p>
 
 ### 🗄️ Databases
+### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 </p>
-
 ### 🛠️ Tools & Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=firebase" width="45"/>&nbsp;
