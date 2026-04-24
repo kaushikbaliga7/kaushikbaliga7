@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java & Spring Boot Developer from Karnataka, India 🇮🇳</h3>
 
 <p align="center">
-  • <a href="mailto:kaushikbaliga@gmail.com">Email</a> •
+  • <a href="mailto:your-email@example.com">Email</a> •
   <a href="https://www.linkedin.com/in/kaushik-s-baliga/">LinkedIn</a> 
 </p>
 
@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 🎓 Computer Science Graduate<br>
-💻 Skilled in **Java, Spring Boot, SQL (MySQL, Oracle)**<br>
+💻 Skilled in **Java, Spring Boot, SQL (MySQL, Oracle), JavaScript**<br>
 🚀 Passionate about **building secure backend systems & APIs**<br>
 🔐 Working on **API Security, Encryption & Banking Systems (FRM)**<br>
 📍 Based in **Karnataka, India**<br>
@@ -36,12 +36,19 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=linux" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=postman" width="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="45" title="PL/SQL"/>&nbsp;
 <img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="45"/>
 </p>
 
