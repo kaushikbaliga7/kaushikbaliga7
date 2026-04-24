@@ -63,7 +63,6 @@
 <img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-<img src="https://cdn.simpleicons.org/openai/412991" width="45" title="Cursor AI"/>
 </p>
 ---
 
