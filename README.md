@@ -36,17 +36,35 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-Java • JavaScript • SQL • HTML • CSS  
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="45" title="SQL"/>
+</p>
 
 ### ⚙️ Frameworks & Technologies
-Spring Boot • React.js • Node.js  
+<p>
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+</p>
 
 ### 🗄️ Databases
-MySQL  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</p>
 
 ### 🛠️ Tools & Platforms
-Firebase • Google Cloud • Git • GitHub • VS Code • Cursor AI  
-
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="45" title="Cursor AI"/>
+</p>
 ---
 
 ## 📂 Projects
