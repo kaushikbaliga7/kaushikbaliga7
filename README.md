@@ -113,7 +113,7 @@ CGPA: **8.41**
 
 ## 🏆 Extra
 
-🎯 Core Committee Member — Aakriti 2025  
+🎯 Chief Coordinator — Aakriti 2025, 2026 (Canara Engineering College)  
 - Organized 60+ events over 3 days  
 
 ---
